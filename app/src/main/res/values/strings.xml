@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">goodeatingfin</string>
+
+
+
+    <string name="admin">Administrador</string>
+    <string name="o">Ordenes</string>
+
+    <string name="llegar">Como llegar</string>
+    <string name="c">Cantidad</string>
+    <string name="p">Precio</string>
+    <string name="usuario">Usuario</string>
+    <string name="terminos">Terminos y Condiciones</string>
+    <string name="idioma">Idioma</string>
+    <string name="Calificanos">Calificanos</string>
+    <string name="Descuentos">Descuentos</string>
+    <string name="info">Informacion</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="enviar">Enviar</string>
+    <string name="volver">Volver</string>
+    <string name="calificanos2">Califica nuestra aplicacion!</string>
+    <string name="aceptart">Aceptacion de terminos</string>
+    <string name="usoa">Uso de aplicacion</string>
+    <string name="derechosa">Derechos de autor</string>
+    <string name="opinion">Escribe tu opinión aquí</string>
+    <string name="descuentoOne">30% de descuento en todos los productos</string>
+    <string name="descuentoTwo">50% de descuento en la primera compra</string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="app_slogan">Come bien, siéntete bien. ¡Descubre nuestra variedad de opciones saludables!</string>
+
+
+    <string name="menu_slideshow">Información</string>
+    <string name="menu_map">Comó llegar</string>
+    <string name="menu_settings">Configuración</string>
+    <string name="menu_profile">Perfil</string>
+
+
+
+
+
+
+    <string name="terminoOne">Al usar esta aplicación, aceptas los siguientes términos y condiciones.</string>
+    <string name="uso">Esta aplicación está destinada únicamente para fines educativos.</string>
+    <string name="derechos">Todo el contenido de esta aplicación es propiedad del desarrollador.</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="complete_sus_datos">Complete sus datos</string>
+    <string name="ingrese_su_nombre">Ingrese su nombre</string>
+    <string name="ingrese_su_direccion">Ingrese su direccion</string>
+    <string name="ingrese_su_telefono">Ingrese su telefono</string>
+    <string name="ingrese_su_correo_electronico">Ingrese su correo electronico</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="agregar_productos">Agregar productos</string>
+    <string name="nombre_del_producto">Nombre del producto</string>
+    <string name="descricpcion_del_producto">Descricpcion del producto</string>
+    <string name="precio_de_compra">Precio de compra</string>
+    <string name="precio_venta">Precio venta</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="agregar_producto">Agregar producto</string>
+    <string name="total_000">Total: 000</string>
+    <string name="felicitaciones_tu_compra_fue_realizada_con_exito">Felicitaciones, tu compra fue realizada con exito...</string>
+    <string name="continuar">Continuar</string>
+    <string name="confirmar_compra">Confirmar compra</string>
+    <string name="por_favor_confirme_su_compra">Por favor confirme su compra</string>
+    <string name="nombre">Nombre:</string>
+    <string name="direccion_de_entrega">Direccion de entrega:</string>
+    <string name="telefono">Telefono:</string>
+    <string name="terminar_la_compra">Terminar la compra</string>
+    <string name="correo">Correo:</string>
+    <string name="nuestra_prioridad_es_la_comida_sana">Nuestra prioridad es la comida sana</string>
+    <string name="ingresar_como_usuario">Ingresar como usuario</string>
+    <string name="ingresar_como_admin">Ingresar como Admin</string>
+    <string name="iniciar_sesion">Iniciar sesion</string>
+    <string name="ingrese_su_numero">Ingrese su numero</string>
+    <string name="ingrese_el_codigo_recibido">Ingrese el codigo recibido</string>
+    <string name="enviar_codigo">ENVIAR CODIGO</string>
+    <string name="confirmar">CONFIRMAR</string>
+    <string name="o_tambien_puede_iniciar_sesion_con">O tambien puede iniciar sesion con:</string>
+    <string name="facebook">FACEBOOK</string>
+    <string name="google">GOOGLE</string>
+    <string name="precio_del_producto">Precio del producto</string>
+    <string name="a_adir_al_carrito">AÑADIR AL CARRITO</string>
+    <string name="añadir_al_carrito">añadir al carrito</string>
+    <string name="precio">Precio</string>
+    <string name="administrar_productos">Administrar productos</string>
+    <string name="alimentos">Alimentos</string>
+    <string name="bebidas">Bebidas</string>
+    <string name="guardar_informacion">GUARDAR INFORMACION</string>
+    <string name="bienvenido_a_be_fit">Bienvenido a goodeating</string>
+    <string name="contactanos">Contactanos</string>
+    <string name="whatsapp">whatsapp</string>
+    <string name="dime_lo_que_comes_y_te_dire_quien_eres">Dime lo que comes y te dire quien eres</string>
+    <string name="numero">Numero:</string>
+    <string name="correo_y_direccion">Correo y Direccion:</string>
+    <string name="fecha_y_hora">Fecha y Hora:</string>
+    <string name="ver_productos_de_esta_orden">VER PRODUCTOS DE ESTA ORDEN</string>
+    <string name="cantidad_000">Cantidad: 000</string>
+    <string name="inicio">Inicio</string>
+    <string name="productos">Productos</string>
+    <string name="pedidos">Pedidos</string>
+    <string name="perfil">Perfil</string>
+    <string name="menu">Menu</string>
+    <string name="ordenes">Ordenes</string>
+    <string name="administrador">Administrador</string>
+    <string name="cerrar_sesion">Cerrar sesion</string>
+    <string name="secundario">Secundario</string>
+    <string name="principal">Principal</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_inicio">Comida Saludable</string>
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Ordenes</string>
+</resources>

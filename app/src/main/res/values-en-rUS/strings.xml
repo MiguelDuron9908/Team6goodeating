@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">goodeatingfin</string>
+    <string name="app_inicio">Healthy food</string>
+
+
+
+    <string name="admin">Admin</string>
+    <string name="c">Amount</string>
+    <string name="o">Orders</string>
+    <string name="usuario">User</string>
+    <string name="info">Information</string>
+    <string name="p">Price</string>
+    <string name="llegar">how to get</string>
+
+
+    <string name="app_slogan">Eat well, feel good. Discover our variety of healthy options!</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Orders</string>
+    <string name="menu_slideshow">Information</string>
+    <string name="menu_map">how to get home</string>
+    <string name="menu_settings">Configuration</string>
+    <string name="terminos">Terms and Conditions</string>
+    <string name="idioma">language</string>
+    <string name="Calificanos">rate us</string>
+    <string name="calificanos2">" Rate our app!"</string>
+    <string name="aceptart">" Acceptance of terms"</string>
+    <string name="usoa">" Application use"</string>
+    <string name="derechosa">" Copyright"</string>
+    <string name="opinion">Write your opinion here!</string>
+    <string name="descuentoOne">30% discount on all products</string>
+
+
+
+    <string name="Descuentos">Discounts</string>
+    <string name="aceptar">Acept</string>
+    <string name="enviar">send</string>
+
+
+    <string name="terminoOne">By using this app, you agree to the following terms and conditions.</string>
+    <string name="uso">This app is intended for educational purposes only.</string>
+    <string name="derechos">All content in this app is the property of the developer.</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="complete_sus_datos">" Fill in your details"</string>
+    <string name="ingrese_su_nombre">Enter your name</string>
+    <string name="ingrese_su_direccion">Enter your address</string>
+    <string name="ingrese_su_telefono">Enter your phone</string>
+    <string name="ingrese_su_correo_electronico">Enter your email</string>
+    <string name="guardar">SAVE</string>
+    <string name="agregar_productos">Add products</string>
+    <string name="nombre_del_producto">Name of product</string>
+
+    <string name="descricpcion_del_producto">Product description</string>
+    <string name="precio_de_compra">purchase price</string>
+    <string name="precio_venta">sale price</string>
+
+    <string name="cantidad">amount</string>
+    <string name="agregar_producto">add product</string>
+    <string name="total_000">Total: 000</string>
+    <string name="felicitaciones_tu_compra_fue_realizada_con_exito">Congratulations, your purchase was successful...</string>
+    <string name="continuar">Continue</string>
+    <string name="confirmar_compra">confirm purchase</string>
+    <string name="por_favor_confirme_su_compra">please, confirm purchase</string>
+    <string name="nombre">Name:</string>
+    <string name="direccion_de_entrega">" Delivery address:"</string>
+    <string name="telefono">Phone:</string>
+    <string name="terminar_la_compra">finish your puchase</string>
+    <string name="correo">Email:</string>
+    <string name="nuestra_prioridad_es_la_comida_sana">Our priority is healthy food</string>
+    <string name="ingresar_como_usuario">Login as user</string>
+    <string name="ingresar_como_admin">Login as admin</string>
+    <string name="iniciar_sesion">Login</string>
+    <string name="ingrese_su_numero">" enter your number"</string>
+
+    <string name="ingrese_el_codigo_recibido">enter your code</string>
+    <string name="enviar_codigo">send code</string>
+    <string name="confirmar">CONFIRM</string>
+    <string name="o_tambien_puede_iniciar_sesion_con">Or you can also login with::</string>
+    <string name="facebook">FACEBOOK</string>
+    <string name="google">GOOGLE</string>
+    <string name="precio_del_producto">Price of the product</string>
+
+    <string name="a_adir_al_carrito">add to car</string>
+    <string name="añadir_al_carrito">add to car</string>
+    <string name="precio">Price</string>
+    <string name="administrar_productos">manage products</string>
+    <string name="alimentos">food</string>
+    <string name="bebidas">drinks</string>
+    <string name="guardar_informacion">SAVE INFORMATION</string>
+    <string name="bienvenido_a_be_fit">welcome to goodeating</string>
+    <string name="contactanos">Contact us</string>
+    <string name="whatsapp">whatsapp</string>
+    <string name="dime_lo_que_comes_y_te_dire_quien_eres">Dime lo que comes y te dire quien eres</string>
+    <string name="numero">Number:</string>
+    <string name="correo_y_direccion">Email and Address</string>
+    <string name="fecha_y_hora">" Date and Time:"</string>
+
+    <string name="ver_productos_de_esta_orden">" SEE PRODUCTS OF THIS ORDER"</string>
+    <string name="cantidad_000">Amount: 000</string>
+    <string name="inicio">home</string>
+    <string name="productos">Products</string>
+    <string name="pedidos">orders</string>
+    <string name="perfil">Profile</string>
+    <string name="menu">Menu</string>
+    <string name="ordenes">Orders</string>
+    <string name="administrador">Admin</string>
+    <string name="cerrar_sesion">Logout</string>
+    <string name="secundario">Secundario</string>
+    <string name="principal">Main</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="volver">back</string>
+    <string name="descuentoTwo">50% discount on the first purchase</string>
+</resources>

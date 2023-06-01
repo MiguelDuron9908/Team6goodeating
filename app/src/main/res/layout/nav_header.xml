@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="176dp"
+    android:gravity="bottom"
+    android:padding="16dp"
+    android:background="@drawable/fondoblanco">
+
+    <ImageView
+        android:id="@+id/image_perfil"
+        android:layout_width="180dp"
+        android:layout_height="90dp"
+        android:src="@drawable/logo"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:paddingTop="0dp"
+        android:text="GoodEating@gmail.com"
+        android:textColor="@color/lavander"
+        android:textSize="16dp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/usuario_nombre_perfil"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:paddingTop="0dp"
+        android:text="nombre"
+        android:textColor="@color/lavander"
+
+        android:textSize="17dp" />
+
+</LinearLayout>

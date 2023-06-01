@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondoblanco"
+
+    android:orientation="vertical"
+    android:padding="24dp"
+    tools:context=".Logina">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        android:src="@drawable/logo"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Inicia sesion"
+            android:layout_marginBottom="15sp"
+            android:textAlignment="center"
+            android:textColor="@color/lavander"
+            android:textSize="36dp"
+            android:textStyle="bold"/>
+
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_height="wrap_content">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/numeroadmin"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="40dp"
+                android:background="@drawable/custom_editext"
+                android:drawableLeft="@drawable/baseline_call_24"
+                android:drawablePadding="8dp"
+                android:hint="numero telfonico"
+                android:inputType="phone"
+                android:padding="8dp"
+                android:textColor="@color/black"/>
+        </com.google.android.material.textfield.TextInputLayout>
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/codigoadmin"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/custom_editext"
+            android:drawablePadding="8dp"
+            android:hint="codigo de verificacion"
+            android:padding="8dp"
+            android:inputType="number"
+            android:textColor="@color/black"
+            android:visibility="gone"/>
+
+
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"/>
+
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/enviarnumeroadmin"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="30dp"
+            android:backgroundTint="@color/lavander"
+            android:text="Enviar Numero"
+            android:textSize="18dp"
+            app:cornerRadius="20dp"/>
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/enviarcodigoadmin"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="30dp"
+            android:backgroundTint="@color/lavander"
+            android:text="Enviar Codigo"
+            android:textSize="18dp"
+            app:cornerRadius="20dp"
+            android:visibility="gone"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+
+
+
+        </LinearLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:padding="8dp"
+            android:text="O"
+            android:textColor="@color/lavander"
+            android:textSize="18dp" />
+
+
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/googleadmin"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="0dp"
+            android:backgroundTint="@color/lavander"
+            android:text="INICIA SESION CON GOOGLE"
+            android:textColor="@color/white"
+            android:textSize="18dp"
+            app:cornerRadius="20dp"/>
+
+
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="@string/principal">
+        <menu>
+
+            <item
+                android:id="@+id/nav_menu"
+                android:icon="@drawable/baseline_home_24"
+                android:title="@string/menu"/>
+
+            <item
+                android:id="@+id/nav_ordenes"
+                android:icon="@drawable/baseline_shopping_cart_24"
+                android:title="@string/ordenes"
+                />
+            <item
+                android:id="@+id/nav_informacion"
+                android:icon="@drawable/baseline_info_24"
+                android:title="@string/info"
+                />
+            <item
+                android:id="@+id/nav_comollegar"
+                android:icon="@drawable/baseline_map_24"
+                android:title="@string/llegar"
+                />
+
+
+            <item
+                android:id="@+id/nav_perfil"
+                android:icon="@drawable/baseline_person_24"
+                android:title="@string/perfil"
+                />
+        </menu>
+    </item>
+    <item android:title="">
+        <menu>
+
+
+            <item
+                android:id="@+id/nav_cerrar_sesion"
+                android:icon="@drawable/baseline_logout_24"
+                android:title="@string/cerrar_sesion"/>
+        </menu>
+    </item>
+</menu>
